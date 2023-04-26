@@ -1,9 +1,9 @@
 # SCEHS
 ## Smart Contract Enabled Hosted Services
 
-Welcome to the SCEHS organization page. You are probally looking for our [Sample Code][https://github.com/scehsplatform/samplecode] repository.
+Welcome to the SCEHS organization page. You are probally looking for our [Sample Code](https://github.com/scehsplatform/samplecode) repository.
 
-If not, you should check out our [homepage][https://www.scehs.com/] for more information. 
+If not, you should check out our [homepage](https://www.scehs.com/) for more information. 
 
 
 <!--
